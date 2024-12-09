@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eunice Fatuma - CV</title>
+  <link rel="stylesheet" href="style_first_cv.css">
+</head>
+<body>
+  <div class="cv-container">
+    <h1 style="text-align: center;">CURRICULUM VITAE</h1>
+
+    <section class="personal-details">
+      <h2>PERSONAL DETAILS</h2>
+      <p><strong>NAME:</strong> Eunice Fatuma</p>
+      <p><strong>GENDER:</strong> Female</p>
+      <p><strong>DATE OF BIRTH:</strong> 7th April 2006</p>
+      <p><strong>PHONE NUMBER:</strong> 0715910862</p>
+      <p><strong>ADDRESS:</strong> 55811-00200, Nairobi</p>
+      <p><strong>NATIONALITY:</strong> Kenyan</p>
+      <p><strong>EMAIL:</strong> <a href="mailto:fatmaeunice0@gmail.com">fatmaeunice0@gmail.com</a></p>
+      <p><strong>RESIDENCE:</strong> Mlolongo, Nairobi</p>
+    </section>
+
+    <section class="personal-profile">
+      <h2>PERSONAL PROFILE</h2>
+      <p>I am highly motivated with a high level of ambition, a creative problem solver, and able to prioritize work with discipline and focus. In addition, I am...</p>
+    </section>
+
+    <section class="education-training">
+      <h2>EDUCATION AND TRAINING</h2>
+      <ul>
+        <li>2023-2024: Currently studying at Jomo Kenyatta University of Agriculture & Technology, Bachelor of Agribusiness Management</li>
+        <li>2019-2022: Gathirimu Girls Technical High School</li>
+        <li>2011-2018: Kabete Vet Lab Primary School</li>
+      </ul>
+    </section>
+
+    <section class="work-experience">
+      <h2>WORKING EXPERIENCE</h2>
+      <p><strong>May 2024 - August 2024:</strong> Sales Personnel, Nimi Shop</p>
+      <h3>Responsibilities</h3>
+      <ul>
+        <li>Selling products to customers</li>
+        <li>Customer Relationship Management</li>
+      </ul>
+    </section>
+
+    <section class="skills">
+      <h2>SKILLS AND PERSONAL ATTRIBUTES</h2>
+      <ul>
+        <li>Team player</li>
+        <li>Problem solving</li>
+        <li>Integrity</li>
+        <li>Great communication and interpersonal skills</li>
+        <li>Active listening</li>
+      </ul>
+    </section>
+
+    <section class="interests-hobbies">
+      <h2>INTERESTS AND HOBBIES</h2>
+      <ul>
+        <li>Community work</li>
+        <li>Reading</li>
+        <li>Playing sports</li>
+      </ul>
+    </section>
+
+    <section class="references">
+      <h2>REFERENCES</h2>
+      <ul>
+        <li><strong>1. Jeremiah Njeru</strong> - Economist, Madison Insurance Company<br>Email: <a href="mailto:jeremynjeru22@gmail.com">jeremynjeru22@gmail.com</a></li>
+        <li><strong>2. Daisy Micheni</strong> - Businesswoman, Nimi Shop<br>Email: <a href="mailto:daisykathure@gmail.com">daisykathure@gmail.com</a></li>
+      </ul>
+    </section>
+  </div>
+</body>
+</html>
